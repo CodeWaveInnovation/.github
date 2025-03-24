@@ -15,6 +15,7 @@ This project is licensed under the [MIT License][license-link]. See the file for
 ## 👥 Authors
 
 - [@avilesxd](https://www.github.com/avilesxd)
+- [@ESCOBAR741](https://github.com/ESCOBAR741)
 
 ---
 
