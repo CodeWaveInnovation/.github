@@ -14,8 +14,7 @@ This project is licensed under the [MIT License][license-link]. See the file for
 
 ## 👥 Authors
 
-- [@avilesxd](https://www.github.com/avilesxd)
-- [@ESCOBAR741](https://github.com/ESCOBAR741)
+See the list of contributors in the [AUTHORS][authors-link] file.
 
 ---
 
@@ -23,3 +22,4 @@ This project is licensed under the [MIT License][license-link]. See the file for
 [enterprise-banner-link]: https://raw.githubusercontent.com/CodeWaveInnovation/.github/refs/heads/main/images/banner.png
 [code-of-conduct-link]: https://github.com/CodeWaveInnovation/.github/blob/main/CODE_OF_CONDUCT.MD
 [license-link]: https://github.com/CodeWaveInnovation/.github/blob/main/LICENSE
+[authors-link]: https://github.com/CodeWaveInnovation/.github/blob/main/Authors
